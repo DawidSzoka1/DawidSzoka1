@@ -23,6 +23,6 @@ I'm Dawid, a Computer Science student at University of Białystok. I'm passionat
 ---
 **Pinned Repositories:**
 
-- [Django Kindergarten Management System]([https://github.com/yourusername/project1](https://github.com/DawidSzoka1/KindergartenDjangoDev)): This project aims to create a comprehensive management system for kindergartens, providing administrators, teachers, and parents with tools to efficiently manage various aspects of kindergarten operations
+- [Django Kindergarten Management System](https://github.com/DawidSzoka1/KindergartenDjangoDev): This project aims to create a comprehensive management system for kindergartens, providing administrators, teachers, and parents with tools to efficiently manage various aspects of kindergarten operations
 
 
