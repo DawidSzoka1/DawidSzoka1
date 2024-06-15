@@ -2,6 +2,8 @@
 
 I'm a passionate student pursuing computer sience, with a keen interest in python. I enjoy exploring new technologies and building projects that solve real-world problems. Currently, I'm focused on honing my skills in React.
 
+---
+
 🌟 Skills
 
 Programming Languages: Proficient in python, including ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white).
@@ -34,26 +36,24 @@ Description: This project aims to create a comprehensive management system for k
 - HTML
 - CSS
 - JavaScript
-- 
 Link: [Repository](https://github.com/DawidSzoka1/KindergartenDjangoDev)
 
 ---
 
 🌐 Additional Links
 
-Email: Reach out via email for collaboration or inquiries.
+Email: Reach out via email for collaboration or inquiries szokadawid13@gmail.com.
 
-🌟 Achievements
-
-[Any relevant academic achievements or awards]
 
 📝 Certifications
 
-[Graduade diploma IT course] from [CodersLab]
+Graduade diploma IT course from CodersLab
 
 🌱 Interests
 
-[Areas of interest outside of academia, such as open-source contributions, hackathons, etc.]
+- Playing video games
+- Gym
+- Football 
 
 📫 Contact
 
