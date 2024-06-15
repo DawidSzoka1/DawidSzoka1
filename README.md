@@ -47,6 +47,12 @@ Link: [Repository](https://github.com/DawidSzoka1/KindergartenDjangoDev)
 
 ---
 
+# Statistic 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DawidSzoka1&show_icons=true&theme=radical)
+
+---
+
 ### 🌐 Additional Links
 
 Email: Reach out via email for collaboration or inquiries szokadawid13@gmail.com.
