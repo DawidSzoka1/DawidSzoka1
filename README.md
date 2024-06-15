@@ -51,6 +51,8 @@ Link: [Repository](https://github.com/DawidSzoka1/KindergartenDjangoDev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DawidSzoka1&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DawidSzoka1)
+
 ---
 
 ### 🌐 Additional Links
