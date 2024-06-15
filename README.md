@@ -47,14 +47,6 @@ Link: [Repository](https://github.com/DawidSzoka1/KindergartenDjangoDev)
 
 ---
 
-# Statistic 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DawidSzoka1&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DawidSzoka1)
-
----
-
 ### 🌐 Additional Links
 
 Email: Reach out via email for collaboration or inquiries szokadawid13@gmail.com.
@@ -73,3 +65,12 @@ Graduade diploma IT course from CodersLab
 ### 📫 Contact
 
 Feel free to reach out to me via Email. I'm open to discussing projects, collaborations, or just chatting about technology!
+
+---
+
+# 📊 Statistic 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DawidSzoka1&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DawidSzoka1)
+
