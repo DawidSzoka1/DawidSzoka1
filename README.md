@@ -35,7 +35,7 @@ I'm a passionate student pursuing computer science, with a keen interest in Pyth
 
 # 🚀 Projects
 
-## Django Kindergarten Management System
+## Django Kindergarten Management System Web Application
 
 **Description**: This project aims to create a comprehensive management system for kindergartens, providing administrators, teachers, and parents with tools to efficiently manage various aspects of kindergarten operations.
 
