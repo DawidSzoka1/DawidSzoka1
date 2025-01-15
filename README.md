@@ -7,7 +7,7 @@ I'm a passionate student pursuing computer science, with a keen interest in Pyth
 # 🌟 Skills
 
 ## Programming Languages: 
-- Proficient in ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), including ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white).
+- Proficient in ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@ I'm a passionate student pursuing computer science, with a keen interest in Pyth
 
 ## Web Development:
 - ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-- ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-092E20?style=flat-square&logo=django&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white).
 
 ## Database Management:  
 - Familiar with databases like PostgreSQL , mySql, oracleSql.
@@ -64,7 +64,7 @@ I'm a passionate student pursuing computer science, with a keen interest in Pyth
 - WebSockets
 
 **Current Status**: Actively in development.  
-**Link**: [Repository](#) *(Update with your repository link when available)*
+**Link**: [Repository](https://github.com/DawidSzoka1/ChessJavaSpring)
 
 ---
 
